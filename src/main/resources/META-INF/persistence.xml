@@ -5,10 +5,10 @@
     <provider>org.hibernate.ejb.HibernatePersistence</provider>
     <class>adatbazis.Mastermind</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://teszt-vegh.acsgabi.com:3306/Esztike?serverTimezone=UTC"/>
-      <property name="javax.persistence.jdbc.user" value="titok"/>
+      <property name="javax.persistence.jdbc.url" value=""/>
+      <property name="javax.persistence.jdbc.user" value=""/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="titok"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
       <property name="hibernate.cache.provider_class" value="org.hibernate.cache.NoCacheProvider"/>
     </properties>
   </persistence-unit>
