@@ -20,7 +20,7 @@ A játékosnak 8 lehetősége van kitalálni a szinkódot, ha ez nem sikerül, a
 * **fehér kiskörök darabszáma**: rossz helyen találtad el a színt
 * **szürke kiskörök darabszáma**: nem találtad el a színt
 
-### Parancsok a játék telepítéséhz, indításához a letöltött mappán belül
+### Parancsok a játék telepítéséhez, indításához a letöltött mappán belül
 #### Fordítás:
         mvn compile
 
